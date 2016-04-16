@@ -1,0 +1,6 @@
+name: LightLevel
+main: org.inventivetalent.lightlevel.LightLevel
+author: inventivetalent
+version: ${project.version}
+
+softdepend: [ScriptConfig]
