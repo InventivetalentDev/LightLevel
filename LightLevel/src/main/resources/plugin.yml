@@ -1,6 +1,7 @@
 name: LightLevel
 main: org.inventivetalent.lightlevel.LightLevel
-author: inventivetalent
+author:
+    - inventivetalent
+    - Tony Gravagno (update to MC 1.12.1)
 version: ${project.version}
-
 softdepend: [ScriptConfig]
